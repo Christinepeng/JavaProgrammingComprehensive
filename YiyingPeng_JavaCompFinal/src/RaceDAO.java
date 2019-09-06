@@ -1,0 +1,1 @@
+interface RaceDAO extends RaceReader {}
